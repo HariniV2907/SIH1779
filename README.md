@@ -1,3 +1,13 @@
+# Virtual Reality Healthcare Training System
+
+## Overview
+This project introduces an advanced *Virtual Reality Healthcare Training System* developed in Unity, designed to provide immersive and interactive vocational training in the healthcare domain. The solution integrates cutting-edge *AI-driven assistance*, ensuring users gain hands-on experience in life-saving procedures and surgical practices.
+
+## Features
+### CPR Training Modules
+- *Chest Compressions*: Guided simulations for performing effective chest compressions.
+- *AED Usage*: Training for operating an Automated External Defibrillator (AED).
+- *Oxygen Mask Handling*: Proper usage and application of oxygen masks.
 
 ### Surgical Training Modules
 - *Suturing*: Step-by-step guidance on surgical suturing techniques.
@@ -35,7 +45,7 @@ Our mission is to revolutionize *VR vocational healthcare training* by:
 ## Installation
 1. Clone the repository:
    bash
-   git clone https://github.com/HariniV2907/HealthcareVRTraining.git
+   git clone https://github.com/HariniV2907/SIH1779.git
    
 2. Open the project in Unity (2021.3 or above recommended).
 3. Set up VR hardware and ensure proper configuration.
@@ -59,11 +69,12 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 *Contributors*  
-- @Bramarambika
-- @KrithikRaghav
-- @Mohamed Suhail
-- @Ratnesh
-- @Sakthisree
+- Harini 
+- Bramarambika 
+- KrithikRaghav 
+- Mohamed Suhail
+- Ratnesh
+- Sakthisree
 - Team: Smart Smurfs 561
 
 ---
