@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CPR_UI.unity
+    guid: b1c60adceac88ef439f233f911966a49
+  - enabled: 1
+    path: Assets/Scenes/CPR.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/CPR_Hindi.unity
+    guid: 93867ad5a0a7fcc47873f2d1f3da8718
+  - enabled: 1
+    path: Assets/Scenes/CPR_Tamil.unity
+    guid: 575280b5b060c714791f85d80b73b73a
+  - enabled: 1
+    path: Assets/Scenes/CPR_Marathi.unity
+    guid: 37a3e9ff113e9ea438b38bc2d059f1bd
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 59e41451783447245b196b9c5a2adcb4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d7509e2e58a642a46be6fbfff875b087, type: 2}
