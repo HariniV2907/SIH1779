@@ -75,7 +75,7 @@ This project is licensed under the [MIT License](LICENSE).
 - Mohamed Suhail
 - Ratnesh
 - Sakthisree
-- Team: Smart Smurfs 561
+Team: Smart Smurfs 561
 
 ---
 
